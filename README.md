@@ -5,16 +5,16 @@
 
 <div align="center">
 
-[![https://telegram.me/th30neand0nly0ne](https://img.shields.io/badge/Telegram-Channel-orange.svg?style=flat-square)](https://telegram.me/th30neand0nly0ne)
-[![https://telegram.me/th30neand0nly](https://img.shields.io/badge/Telegram-@th30neand0nly-blue.svg?style=flat-square)](https://telegram.me/th30neand0nly)
+[![https://telegram.me/AKV3N0M](https://img.shields.io/badge/Telegram-Channel-orange.svg?style=flat-square)](https://telegram.me/AKV3N0M)
+[![https://telegram.me/th30neand0nly](https://img.shields.io/badge/Telegram-@th30neand0nly-blue.svg?style=flat-square)](https://telegram.me/AKV3N0M)
 
 </div>
 
-This tool is based upon [Psi](https://github.com/Th30neAnd0nly/Psi) .This is a telegram implementation with extra features than Psi.
-### Try it at [@TrackDownRoBot](https://t.me/TrackDownRoBot)
+This tool is based upon [V3n0m](https://github.com/ak-v3n0m/CamHack) .This is a telegram implementation with extra features than Psi.
+### Try it at [@v3n0mcam_bot](https://t.me/v3n0mcam_bot)
 
 
-[![Run on Repl.it](https://repl.it/badge/github/Th30neAnd0nly/TrackDown)](https://repl.it/github/Th30neAnd0nly/TrackDown)
+[![Run on Repl.it](https://repl.it/badge/github/ak-v3n0m/CamHack)](https://repl.it/github/ak-v3n0m/CamHack)
  
 [![Video Tutorial](https://github.com/Th30neAnd0nly/TrackDown/blob/main/vid.png)](https://github.com/Th30neAnd0nly/TrackDown/blob/main/vid.mp4?raw=true)
  
