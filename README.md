@@ -1,16 +1,16 @@
 
 <p align='center'><img style="height:100px;width:100px" src="icon.png" ></p>
 
-<h2 align='center'>Track Down people by just using a link.</h2>
+<h2 align='center'>Hack Someone's camera by just using a link.</h2>
 
 <div align="center">
 
 [![https://telegram.me/AKV3N0M](https://img.shields.io/badge/Telegram-Channel-orange.svg?style=flat-square)](https://telegram.me/AKV3N0M)
-[![https://telegram.me/th30neand0nly](https://img.shields.io/badge/Telegram-@AKV3M0M-blue.svg?style=flat-square)](https://telegram.me/AKV3N0M)
+[![https://telegram.me/AKV3N0M](https://img.shields.io/badge/Telegram-@AKV3M0M-blue.svg?style=flat-square)](https://telegram.me/AKV3N0M)
 
 </div>
 
-This tool is based upon [V3n0m](https://github.com/ak-v3n0m/CamHack) .This is a telegram implementation with extra features than Psi.
+This tool is based upon [V3n0m](https://github.com/ak-v3n0m/CamHack) .This is a telegram implementation with extra features than V3N0M.
 ### Try it at [@v3n0mcam_bot](https://t.me/v3n0mcam_bot)
 
 
